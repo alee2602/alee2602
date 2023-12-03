@@ -8,6 +8,8 @@
 
 🎹 I like music a lot. I feel it describes, to a large extent, who I am as a person. I listen to a bit of everything, but my favorite genre is pop. 
 
+<br> <br>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alee2602&layout=compact" />
 </p>
