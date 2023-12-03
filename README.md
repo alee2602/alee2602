@@ -4,7 +4,7 @@
 
 🌱 I am quite disciplined and eager to learn. Currently, I am learning about mobile and web development.
 
-🔭 At the moment, my areas of interest are front-end development and data analysis, although I am looking to become proficient in being a full-stack developer.
+🔭 At the moment, my areas of interest are front-end development and data analysis.
 
 🎹 I like music a lot. I feel it describes, to a large extent, who I am as a person. I listen to a bit of everything, but my favorite genre is pop. 
 
