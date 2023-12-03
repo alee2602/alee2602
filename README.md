@@ -8,8 +8,9 @@
 
 🎹 I like music a lot. I feel it describes, to a large extent, who I am as a person. I listen to a bit of everything, but my favorite genre is pop. 
 
-
+<div align="center">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alee2602&layout=compact)
+</div>
 
 <!--
 **alee2602/alee2602** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
