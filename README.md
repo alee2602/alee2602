@@ -2,7 +2,7 @@
 
 ⚡ I´m a third-year Computer Science student at Universidad del Valle de Guatemala
 
-🌱 I am quite disciplined and eager to learn. Currently, I am learning about mobile and web development.
+🌱 I am quite disciplined and always eager to learn! Currently, I am learning about mobile and web development.
 
 🔭 At the moment, my areas of interest are front-end development and data analysis.
 
