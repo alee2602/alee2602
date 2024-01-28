@@ -2,9 +2,9 @@
 
 ⚡ I'm a third-year Computer Science student at Universidad del Valle de Guatemala
 
-🌱 I am quite disciplined and always eager to learn! Currently, I am learning about mobile and web development.
+🌱 I am quite self-disciplined and always eager to learn! Currently, I am learning about mobile and web development.
 
-🔭 At the moment, my areas of interest are front-end development and data analysis.
+🔭 At the moment, my area of interest is data analysis.
 
 🎹 I like music a lot. I feel it describes, to a large extent, who I am as a person. I listen to a bit of everything, but my favorite genre is pop. 
 
