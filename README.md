@@ -1,6 +1,6 @@
 ### Hi there, I'm Mónica 👋
 
-⚡ I'm a third-year Computer Science student at Universidad del Valle de Guatemala
+⚡ I'm a fourth -year Computer Science student at Universidad del Valle de Guatemala
 
 🌱 I am quite self-disciplined and always eager to learn! Currently, I am learning about mobile and web development.
 
