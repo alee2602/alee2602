@@ -1,10 +1,10 @@
 ### Hi there, I'm Mónica 👋
 
-⚡ I'm a fourth -year Computer Science student at Universidad del Valle de Guatemala
+⚡ I'm a fourth-year Computer Science student at Universidad del Valle de Guatemala
 
-🌱 I am quite self-disciplined and always eager to learn! Currently, I am learning about mobile and web development.
+🌱 I am quite self-disciplined and always eager to learn! Currently, I am learning about data mining asn AI.
 
-🔭 At the moment, my area of interest is data analysis.
+🔭 At the moment, my area of interest is data science.
 
 🎹 I like music a lot. I feel it describes, to a large extent, who I am as a person. I listen to a bit of everything, but my favorite genre is pop. 
 
