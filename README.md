@@ -2,7 +2,7 @@
 
 ⚡ I'm a fourth-year Computer Science student at Universidad del Valle de Guatemala
 
-🌱 I am quite self-disciplined and always eager to learn! Currently, I am learning about data mining asn AI.
+🌱 I am quite self-disciplined and always eager to learn! Currently, I am learning about data mining and AI.
 
 🔭 At the moment, my area of interest is data science.
 
