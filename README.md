@@ -6,8 +6,7 @@
 
 🔭 At the moment, my area of interest is data science.
 
-🎹 I like music a lot. I feel it describes, to a large extent, who I am as a person. I listen to a bit of everything, but my favorite genre is pop. 
-
+🎹 I like music a lot. I feel it describes, to a large extent, who I am as a person. 
 <br> <br>
 
 <p align="center">
