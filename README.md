@@ -27,7 +27,7 @@
 
 ---
 
-## <div align="center">💙 Languages & Technologies</div>
+## <div align="center"> Languages & Technologies</div>
 
 <div align="center">
  
