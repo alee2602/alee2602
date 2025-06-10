@@ -14,7 +14,7 @@
      <td>
        ⚡ <strong>Fourth-year Computer Science student</strong><br>
        🎯 <strong>Self-disciplined and always eager to learn!</strong><br>
-       📊 Currently learning about Data Science and AI<br><br>
+       📊  Data Science and AI<br><br>
        🎵 <strong>Music describes who I am</strong><br>
        🎶 It's a large part of my identity
      </td>
