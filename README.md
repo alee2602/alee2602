@@ -16,7 +16,7 @@
        🎯 <strong>Self-disciplined and always eager to learn!</strong><br>
        📊  Data Science and AI<br><br>
        🎵 <strong>Music describes who I am</strong><br>
-       🎶 It's a large part of my identity
+       🎶 It's a huge part of my identity
      </td>
      <td>
        <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="300" height="200"/>
