@@ -58,7 +58,7 @@
 ## <div align="center">🎵 Currently Listening To</div>
 
 <div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=malejandras2004" alt="Spotify recently played" />
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=malejandras2004&count=3" alt="Spotify recently played" />
 </div>
 
 ---
