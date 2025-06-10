@@ -31,12 +31,6 @@
 
 <div align="center">
  
-### 🚀 **Most Used Languages**
- 
-<img src="https://skillicons.dev/icons?i=python,js,html,rust" />
-
-<br><br>
-
 ### 🛠️ **Tools & Frameworks**
 
 <img src="https://skillicons.dev/icons?i=vscode,git,github,docker,notion" />
