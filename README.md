@@ -33,7 +33,7 @@
  
 ### 🛠️ **Tools & Frameworks**
 
-<img src="https://skillicons.dev/icons?i=vscode,git,github,docker,notion" />
+<img src="https://skillicons.dev/icons?i=vscode,git,github,bitbucket,docker,notion" />
 
 </div>
 
