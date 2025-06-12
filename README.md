@@ -1,9 +1,9 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4A90E2&height=120&section=header" alt="header"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0E4C92&height=120&section=header" alt="header"/> 
 
 # <div align="center">✨ Hey there! I'm Mónica 👋</div>
 
 <div align="center">
- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=4A90E2&center=true&vCenter=true&width=600&lines=Computer+Science+student;Data+Science+;AI+%26+Machine+Learning+;Music+Lover+🎵" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=008ECC&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Data+Science+;AI+%26+Machine+Learning+;Music+Lover+🎵" alt="Typing SVG" />
 </div>
 
 ---
@@ -78,9 +78,9 @@
 ---
 
 <div align="center">
- <img src="https://komarev.com/ghpvc/?username=alee2602&style=for-the-badge&color=4A90E2" alt="Profile views" />
+ <img src="https://komarev.com/ghpvc/?username=alee2602&style=for-the-badge&color=4682B4" alt="Profile views" />
 </div>
 
 <div align="center">
- <img src="https://capsule-render.vercel.app/api?type=waving&color=4A90E2&height=120&section=footer" />
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=0E4C92&height=120&section=footer" />
 </div>
