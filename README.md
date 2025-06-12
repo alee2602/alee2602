@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4A90E2&height=120&section=header" alt="header"/> 
+
 # <div align="center">✨ Hey there! I'm Mónica 👋</div>
 
 <div align="center">
@@ -80,5 +82,5 @@
 </div>
 
 <div align="center">
- <img src="https://capsule-render.vercel.app/api?type=waving&color=4A90E2&height=100&section=footer" />
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=4A90E2&height=120&section=footer" />
 </div>
