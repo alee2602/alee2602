@@ -14,7 +14,7 @@
      <td>
        ⚡ <strong>Fourth-year Computer Science student</strong><br>
        🎯 <strong>Self-disciplined and always eager to learn!</strong><br>
-       📊  Data Science and AI<br><br>
+       📊  My areas of interest are Data Science and AI & Machine Learning <br><br>
        🎵 <strong>Music describes who I am</strong><br>
        🎶 It's a huge part of my identity
      </td>
